@@ -1,0 +1,278 @@
+{
+    "AFKS": {
+        "trend": "UP",
+        "probability": 0.5190176378291879
+    },
+    "AFLT": {
+        "trend": "UP",
+        "probability": 0.5487007417433057
+    },
+    "ALRS": {
+        "trend": "DOWN",
+        "probability": 0.529904955645865
+    },
+    "AQUA": {
+        "trend": "DOWN",
+        "probability": 0.587122239880722
+    },
+    "ASTR": {
+        "trend": "UP",
+        "probability": 0.6080975668365253
+    },
+    "BELU": {
+        "trend": "DOWN",
+        "probability": 0.5636035125114054
+    },
+    "BSPB": {
+        "trend": "UP",
+        "probability": 0.5873815453829626
+    },
+    "CBOM": {
+        "trend": "DOWN",
+        "probability": 0.548141148612487
+    },
+    "CHMF": {
+        "trend": "DOWN",
+        "probability": 0.5361823817538953
+    },
+    "CNRU": {
+        "trend": "UP",
+        "probability": 0.5288287707683729
+    },
+    "DOMRF": {
+        "trend": "UP",
+        "probability": 0.6034933171956279
+    },
+    "ELFV": {
+        "trend": "UP",
+        "probability": 0.5520553630243628
+    },
+    "ENPG": {
+        "trend": "DOWN",
+        "probability": 0.591720832619805
+    },
+    "EUTR": {
+        "trend": "DOWN",
+        "probability": 0.6073814525715322
+    },
+    "FEES": {
+        "trend": "UP",
+        "probability": 0.5528563771790055
+    },
+    "FIXR": {
+        "trend": "DOWN",
+        "probability": 0.5258734404350995
+    },
+    "FLOT": {
+        "trend": "DOWN",
+        "probability": 0.5508334692783059
+    },
+    "GAZP": {
+        "trend": "UP",
+        "probability": 0.5179225065246681
+    },
+    "GEMC": {
+        "trend": "UP",
+        "probability": 0.5747599503664996
+    },
+    "GMKN": {
+        "trend": "DOWN",
+        "probability": 0.5262766661416958
+    },
+    "HEAD": {
+        "trend": "UP",
+        "probability": 0.5246485199635866
+    },
+    "HYDR": {
+        "trend": "UP",
+        "probability": 0.5016865601711471
+    },
+    "IRAO": {
+        "trend": "UP",
+        "probability": 0.5806556976937247
+    },
+    "LEAS": {
+        "trend": "DOWN",
+        "probability": 0.5489886818710266
+    },
+    "LENT": {
+        "trend": "UP",
+        "probability": 0.5230792267126148
+    },
+    "LKOH": {
+        "trend": "DOWN",
+        "probability": 0.5165085354989658
+    },
+    "LSRG": {
+        "trend": "UP",
+        "probability": 0.5052734541524241
+    },
+    "MAGN": {
+        "trend": "DOWN",
+        "probability": 0.5285965728965343
+    },
+    "MBNK": {
+        "trend": "UP",
+        "probability": 0.5193407344435429
+    },
+    "MDMG": {
+        "trend": "DOWN",
+        "probability": 0.5109245422550828
+    },
+    "MOEX": {
+        "trend": "UP",
+        "probability": 0.5375734463284793
+    },
+    "MSNG": {
+        "trend": "DOWN",
+        "probability": 0.5632212600605558
+    },
+    "MTLR": {
+        "trend": "UP",
+        "probability": 0.4979387533826504
+    },
+    "MTLRP": {
+        "trend": "DOWN",
+        "probability": 0.5245337592054207
+    },
+    "MTSS": {
+        "trend": "UP",
+        "probability": 0.5442514290094542
+    },
+    "MVID": {
+        "trend": "DOWN",
+        "probability": 0.5358317083749156
+    },
+    "NLMK": {
+        "trend": "UP",
+        "probability": 0.49863729393088263
+    },
+    "NVTK": {
+        "trend": "DOWN",
+        "probability": 0.5549245420856841
+    },
+    "OZON": {
+        "trend": "UP",
+        "probability": 0.5275152686180323
+    },
+    "OZPH": {
+        "trend": "UP",
+        "probability": 0.5506532999504251
+    },
+    "PHOR": {
+        "trend": "DOWN",
+        "probability": 0.5432000843537174
+    },
+    "PIKK": {
+        "trend": "UP",
+        "probability": 0.5784450010531028
+    },
+    "PLZL": {
+        "trend": "UP",
+        "probability": 0.5019771243475443
+    },
+    "POSI": {
+        "trend": "DOWN",
+        "probability": 0.5168651859443898
+    },
+    "RAGR": {
+        "trend": "UP",
+        "probability": 0.5639443867185933
+    },
+    "RENI": {
+        "trend": "UP",
+        "probability": 0.5304161435912695
+    },
+    "RNFT": {
+        "trend": "DOWN",
+        "probability": 0.6090758999540814
+    },
+    "ROSN": {
+        "trend": "DOWN",
+        "probability": 0.5828387227388855
+    },
+    "RTKM": {
+        "trend": "DOWN",
+        "probability": 0.5151223393470088
+    },
+    "RTKMP": {
+        "trend": "UP",
+        "probability": 0.5187466077788468
+    },
+    "RUAL": {
+        "trend": "UP",
+        "probability": 0.5297705698285486
+    },
+    "SBER": {
+        "trend": "UP",
+        "probability": 0.5975588058704315
+    },
+    "SBERP": {
+        "trend": "UP",
+        "probability": 0.588115265537473
+    },
+    "SELG": {
+        "trend": "DOWN",
+        "probability": 0.6091177494012053
+    },
+    "SFIN": {
+        "trend": "UP",
+        "probability": 0.4943882761136871
+    },
+    "SGZH": {
+        "trend": "UP",
+        "probability": 0.5443082111861043
+    },
+    "SMLT": {
+        "trend": "DOWN",
+        "probability": 0.6520743559951205
+    },
+    "SVCB": {
+        "trend": "DOWN",
+        "probability": 0.5468228114115878
+    },
+    "T": {
+        "trend": "UP",
+        "probability": 0.5300414043371053
+    },
+    "TATN": {
+        "trend": "DOWN",
+        "probability": 0.5421217188412858
+    },
+    "TATNP": {
+        "trend": "DOWN",
+        "probability": 0.5585139906935137
+    },
+    "TGKA": {
+        "trend": "UP",
+        "probability": 0.5504041243222082
+    },
+    "TRNFP": {
+        "trend": "UP",
+        "probability": 0.575594727495016
+    },
+    "UPRO": {
+        "trend": "UP",
+        "probability": 0.5520158011569573
+    },
+    "VKCO": {
+        "trend": "UP",
+        "probability": 0.5011853354100384
+    },
+    "VSEH": {
+        "trend": "UP",
+        "probability": 0.515174785743806
+    },
+    "VTBR": {
+        "trend": "UP",
+        "probability": 0.5875571860407546
+    },
+    "X5": {
+        "trend": "UP",
+        "probability": 0.5870684180630181
+    },
+    "YDEX": {
+        "trend": "UP",
+        "probability": 0.49864401097382693
+    }
+}
