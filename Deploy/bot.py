@@ -17,12 +17,12 @@ def load_signals():
 @dp.message_handler(commands=["start"])
 async def start(message: types.Message):
     text = """
-AI бот прогнозирования акций MOEX
-
-Команды:
-/top
-/stock SBER
-"""
+            AI бот прогнозирования акций MOEX
+            
+            Команды:
+            /top
+            /stock SBER
+            """
     await message.answer(text)
 
 
@@ -41,16 +41,6 @@ async def top_signals(message: types.Message):
             f"Тренд: {row['trend']}\n"
             f"Вероятность: {round(row['probability'] * 100)}%\n\n"
         )
-
-
-    # text = "Топ сигналы:\n\n"
-    #
-    # for ticker, info in df.items():
-    #     text += (
-    #         f"{ticker}\n"
-    #         f"Тренд: {info['trend']}\n"
-    #         f"Вероятность: {round(info['probability']*100)}%\n\n"
-    #     )
 
     await message.answer(text)
 

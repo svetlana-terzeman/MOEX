@@ -12,20 +12,20 @@ class Preproc:
         dup_mask = df.duplicated(subset=["date","ticker"])
         audit["duplicates"] = dup_mask.sum()
         if audit["duplicates"]>0:
-            display(df[dup_mask])
+            print(df[dup_mask])
         df = df[~dup_mask]
         # Пропуски OHLC
         na_mask = df[["open","high","low","close"]].isna().any(axis=1)
         audit["missing_ohlc"] = na_mask.sum()
         if audit["missing_ohlc"]>0:
-            display(df[na_mask])
+            print(df[na_mask])
         df = df[~na_mask]
         # Нулевые/отрицательные цены
 
         bad_price = (df["open"]<=0)|(df["high"]<=0)|(df["low"]<=0)|(df["close"]<=0)
         audit["non_positive_price"] = bad_price.sum()
         if audit["non_positive_price"]>0:
-            display(df[bad_price])
+            print(df[bad_price])
         df = df[~bad_price]
         # Логические ошибки свечей
         logic_mask = (
@@ -37,14 +37,14 @@ class Preproc:
         )
         audit["ohlc_logic_error"] = logic_mask.sum()
         if audit["ohlc_logic_error"]>0:
-            display(df[logic_mask])
+            print(df[logic_mask])
         df = df[~logic_mask]
         # Нулевые объёмы
 
         zero_vol = df["volume"] <= 0
         audit["zero_volume"] = zero_vol.sum()
         if audit["zero_volume"]>0:
-            display(df[zero_vol])
+            print(df[zero_vol])
         df = df[~zero_vol]
 
         return df
